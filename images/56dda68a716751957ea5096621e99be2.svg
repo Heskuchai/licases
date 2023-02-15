@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-60.9757301%" y1="128.901421%" x2="164.469373%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F94019" offset="0%"></stop>
+            <stop stop-color="#FFA150" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="c_skins_list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1467.000000, -1697.000000)">
+        <g id="Group-Copy-5" transform="translate(945.000000, 1671.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-2-Copy">
+                <g id="ic-chevron-right-18px" transform="translate(522.000000, 26.000000)">
+                    <polygon id="Shape" points="1.85333333 0.5 0.44 1.91333333 5.02666667 6.5 0.44 11.0866667 1.85333333 12.5 7.85333333 6.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

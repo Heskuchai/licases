@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-60.9757301%" y1="128.901421%" x2="164.469373%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F94019" offset="0%"></stop>
+            <stop stop-color="#FFA150" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="c_skins_list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1105.000000, -2428.000000)">
+        <g id="Group-Copy-4" transform="translate(945.000000, 2400.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-2">
+                <g id="search" transform="translate(160.000000, 28.000000)">
+                    <path d="M5.94508033,10.262526 L2.46344502,13.7441613 C2.12232667,14.0852796 1.56926455,14.0852796 1.2281462,13.7441613 C0.887027843,13.4030429 0.887027843,12.8499808 1.2281462,12.5088624 L4.70978151,9.02722712 C4.02263839,8.08826777 3.6169611,6.93034598 3.6169611,5.67767317 C3.6169611,2.54198087 6.15894197,0 9.29463427,0 C12.4303266,0 14.9723074,2.54198087 14.9723074,5.67767317 C14.9723074,8.8133655 12.4303266,11.3553463 9.29463427,11.3553463 C8.04196146,11.3553463 6.88403968,10.9496691 5.94508033,10.262526 Z M9.29463428,9.60836998 C11.4654982,9.60836998 13.2253311,7.84853707 13.2253311,5.67767317 C13.2253311,3.50680927 11.4654982,1.74697636 9.29463428,1.74697636 C7.12377037,1.74697636 5.36393746,3.50680927 5.36393746,5.67767317 C5.36393746,7.84853707 7.12377037,9.60836998 9.29463428,9.60836998 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

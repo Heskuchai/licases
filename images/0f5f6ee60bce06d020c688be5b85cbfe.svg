@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="44px" viewBox="0 0 21 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle-3-copy-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.284941%" y1="0%" x2="49.284941%" y2="94.7936022%" id="linearGradient-1">
+            <stop stop-color="#FF2D01" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF3201" stop-opacity="0.201200181" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-2">
+            <stop stop-color="#E77730" stop-opacity="0.698001585" offset="0%"></stop>
+            <stop stop-color="#EF3152" stop-opacity="0.112205616" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="688.12267 546 668.970294 567.924008 687.816862 590 667.079192 568"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.0434783" height="44" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="artboard_3-" transform="translate(-667.000000, -546.000000)" stroke="url(#linearGradient-2)" stroke-width="4" fill="url(#linearGradient-1)">
+            <use id="triangle-3-copy-2" mask="url(#mask-4)" transform="translate(677.600931, 568.000000) scale(-1, 1) rotate(180.000000) translate(-677.600931, -568.000000) " xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

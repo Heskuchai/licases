@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="14px" viewBox="0 0 17 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="49.284941%" y1="0%" x2="49.284941%" y2="94.7936022%" id="linearGradient-1">
+            <stop stop-color="#FF2D01" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF3201" stop-opacity="0.201200181" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-2">
+            <stop stop-color="#E77730" stop-opacity="0.698001585" offset="0%"></stop>
+            <stop stop-color="#EF3152" stop-opacity="0.30395154" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16.9977,4.6576 C16.3727,4.9386 15.6997,5.1286 14.9947,5.2146 C15.7147,4.7766 16.2677,4.0846 16.5277,3.2596 C15.8537,3.6646 15.1077,3.9586 14.3127,4.1156 C13.6777,3.4296 12.7717,2.9996 11.7677,2.9996 C9.8417,2.9996 8.2807,4.5826 8.2807,6.5346 C8.2807,6.8126 8.3117,7.0816 8.3707,7.3406 C5.4727,7.1936 2.9037,5.7866 1.1837,3.6486 C0.8837,4.1686 0.7117,4.7766 0.7117,5.4246 C0.7117,6.6506 1.3277,7.7326 2.2627,8.3656 C1.6907,8.3466 1.1537,8.1876 0.6837,7.9236 L0.6837,7.9676 C0.6837,9.6806 1.8847,11.1076 3.4807,11.4336 C3.1877,11.5146 2.8807,11.5576 2.5617,11.5576 C2.3377,11.5576 2.1187,11.5356 1.9067,11.4936 C2.3497,12.8976 3.6377,13.9196 5.1637,13.9476 C3.9697,14.8956 2.4667,15.4616 0.8327,15.4616 C0.5507,15.4616 0.2727,15.4446 -0.0003,15.4126 C1.5427,16.4146 3.3757,16.9996 5.3457,16.9996 C11.7607,16.9996 15.2677,11.6136 15.2677,6.9436 C15.2677,6.7906 15.2637,6.6386 15.2577,6.4876 C15.9397,5.9886 16.5307,5.3676 16.9977,4.6586 L16.9977,4.6576 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.998" height="14" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Base" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1166.000000, -3234.000000)" stroke="url(#linearGradient-2)" stroke-width="7" fill="url(#linearGradient-1)">
+            <g id="Group-5" transform="translate(0.000000, 3195.000000)">
+                <g id="Group-10" transform="translate(754.000000, 35.000000)">
+                    <g id="Socials" transform="translate(412.000000, 1.000000)">
+                        <use id="Twitter-Icon" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
